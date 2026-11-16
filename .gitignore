@@ -1,0 +1,20 @@
+# Visual Studio 캐시
+.vs/
+*.vsidx
+
+# 빌드 결과물
+bin/
+obj/
+Debug/
+Release/
+
+# 사용자별 설정
+*.user
+*.suo
+
+# 임시 파일
+*.tmp
+*.log
+
+# NuGet
+packages/
